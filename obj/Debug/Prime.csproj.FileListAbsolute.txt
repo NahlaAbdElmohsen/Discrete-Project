@@ -1,0 +1,8 @@
+E:\Prime\Prime\bin\Debug\Prime.exe.config
+E:\Prime\Prime\bin\Debug\Prime.exe
+E:\Prime\Prime\bin\Debug\Prime.pdb
+E:\Prime\Prime\obj\Debug\Prime.csproj.AssemblyReference.cache
+E:\Prime\Prime\obj\Debug\Prime.csproj.SuggestedBindingRedirects.cache
+E:\Prime\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+E:\Prime\Prime\obj\Debug\Prime.exe
+E:\Prime\Prime\obj\Debug\Prime.pdb
